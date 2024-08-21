@@ -1,0 +1,7 @@
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.exe
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\appsettings.json
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.dll
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.deps.json
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.runtimeconfig.json
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Release\net8.0\publish\MyFirstAzureWebApp.pdb

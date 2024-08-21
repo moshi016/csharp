@@ -1,0 +1,2 @@
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.exe
+C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\bin\Debug\net8.0\MyFirstAzureWebApp.dll
