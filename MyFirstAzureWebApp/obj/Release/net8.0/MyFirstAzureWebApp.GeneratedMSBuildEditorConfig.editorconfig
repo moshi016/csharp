@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstAzureWebApp
 build_property.RootNamespace = MyFirstAzureWebApp
-build_property.ProjectDir = C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp\
+build_property.ProjectDir = C:\Users\mdmos\Desktop\C#\New folder\csharp\MyFirstAzureWebApp\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\mdmos\Desktop\C#\New folder\MyFirstAzureWebApp
+build_property.MSBuildProjectDirectory = C:\Users\mdmos\Desktop\C#\New folder\csharp\MyFirstAzureWebApp
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/Error.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/Index.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/Privacy.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/_ViewImports.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/_ViewStart.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/mdmos/Desktop/C\#/New folder/MyFirstAzureWebApp/Pages/Shared/_Layout.cshtml]
+[C:/Users/mdmos/Desktop/C\#/New folder/csharp/MyFirstAzureWebApp/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-vh0crazhex
